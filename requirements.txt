@@ -1,0 +1,10 @@
+## Requirements
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- scikit-learn
+- streamlit
+- requests
+- jupyter
